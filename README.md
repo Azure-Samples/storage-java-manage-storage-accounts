@@ -1,5 +1,5 @@
 ---
-services: compute
+services: storage
 platforms: java
 author: selvasingh
 ---
