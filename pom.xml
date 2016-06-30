@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.microsoft.azure</groupId>
     <artifactId>storage-java-manage-storage-accounts</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-beta2</version>
     <name>ManageStorageAccount</name>
     <description></description>
     <url>https://github.com/Azure/storage-java-manage-storage-accounts</url>
@@ -10,7 +10,7 @@
         <dependency>
             <groupId>com.microsoft.azure</groupId>
             <artifactId>azure</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
+            <version>1.0.0-beta2</version>
         </dependency>
     </dependencies>
     <build>
