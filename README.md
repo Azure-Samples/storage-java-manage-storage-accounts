@@ -17,7 +17,7 @@ This sample shows how to manage your storage account using the Azure Storage Res
 **On this page**
 
 - Run this sample
-- What is program.cs doing?
+- What is ManageStorageAccount.java doing?
  
 ## Running this sample
 
@@ -98,7 +98,7 @@ Finally, the sample deletes the storage account that it created:
 
 The sample deletes the new resource group that it created, which also deletes the additional storage account that was created when the sample ran.
 
-## Additional information
+## More information
 
 - [Azure Developer Center for Java](http://azure.com/java)
 - [Azure Storage Documentation](https://azure.microsoft.com/services/storage/)
