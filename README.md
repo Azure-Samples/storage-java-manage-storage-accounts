@@ -11,6 +11,7 @@ author: selvasingh
    - Create a storage account
    - Get | regenerate storage account access keys
    - Create another storage account
+   - Create another storage account of V2 kind
    - List storage accounts
    - Delete a storage account.
  
