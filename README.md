@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: Storage
-platforms: java
-author: yaohaizh
+extensions:
+- services: Storage
+- platforms: java
 ---
 
-## Getting Started with Storage - Manage Storage Account - in Java ##
+# Getting Started with Storage - Manage Storage Account - in Java #
 
 
   Azure Storage sample for managing storage accounts -
