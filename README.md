@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-  services: Storage
-  platforms: java
+- services: Storage
+- platforms: java
 ---
 
 # Getting Started with Storage - Manage Storage Account - in Java #
